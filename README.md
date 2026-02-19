@@ -1,10 +1,7 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png" />
-  <img src="assets/logo-light.png" alt="Code Premier Pas" width="120" />
-</picture>
+<img src="assets/logo-light.png#gh-light-mode-only" alt="Code Premier Pas" width="120" />
+<img src="assets/logo-dark.png#gh-dark-mode-only" alt="Code Premier Pas" width="120" />
 
 <br/>
 
